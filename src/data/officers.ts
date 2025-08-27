@@ -14,7 +14,7 @@ export const Officers: OfficerType[] = [
   },
   {
     name: "Neil Mann",
-    position: "Vice President",
+    position: "President",
     imageUrl: "/officers/Neil.PNG",
     bio: "This is a placeholder bio where I can talk about myself, my role in the organization, and what I hope to accomplish in the future.",
   },
